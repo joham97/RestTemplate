@@ -1,2 +1,2 @@
-# RestViewer
+# RestTemplate
 Template-Project for Angular4 with a Rest-Service and Routing.
