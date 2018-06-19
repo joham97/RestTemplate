@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ku-bot-monitoring App', () => {
+describe('angular-basic-template App', () => {
   let page: AppPage;
 
   beforeEach(() => {

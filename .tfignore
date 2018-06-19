@@ -1,0 +1,4 @@
+# Build and Node Directory
+\dist
+\.tmp
+\node_modules
